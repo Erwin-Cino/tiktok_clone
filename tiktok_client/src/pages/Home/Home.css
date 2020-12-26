@@ -1,0 +1,13 @@
+.feed {
+    background-color: white;
+    width: 500px;
+}
+.suggested-box {
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+}
