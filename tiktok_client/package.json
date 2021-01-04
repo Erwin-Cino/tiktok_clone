@@ -46,6 +46,7 @@
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.1.6",
+    "eslint": "^7.17.0",
     "netlify-cli": "^2.69.11"
   }
 }
